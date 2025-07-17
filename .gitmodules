@@ -1,6 +1,6 @@
 [submodule "src/guardian"]
 	path = src/guardian
-	url = https://github.com/cloudfoundry/guardian
+	url = https://github.com/kart2bc/guardian
 	branch = cgroupsv2-fix
 [submodule "src/garden"]
 	path = src/garden
